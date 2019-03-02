@@ -2,15 +2,15 @@
 
 可以在`application.properties`文件内部`application.yml`，文件内部或命令行开关中指定各种属性。本附录提供了常见Spring Boot属性的列表以及对使用它们的基础类的引用。
 
-| ![[小费]](https://docs.spring.io/spring-boot/docs/current/reference/html/images/tip.png) |
+|                                                              |
 | ------------------------------------------------------------ |
 | Spring Boot提供了各种具有高级值格式的转换机制，请务必查看[属性转换部分](https://docs.spring.io/spring-boot/docs/current/reference/html/boot-features-external-config.html#boot-features-external-config-conversion)。 |
 
-| ![[注意]](https://docs.spring.io/spring-boot/docs/current/reference/html/images/note.png) |
+|                                                              |
 | ------------------------------------------------------------ |
 | 属性贡献可以来自类路径上的其他jar文件，因此您不应将此视为详尽的列表。此外，您可以定义自己的属性。 |
 
-| ![[警告]](https://docs.spring.io/spring-boot/docs/current/reference/html/images/warning.png) |
+|                                                              |
 | ------------------------------------------------------------ |
 | 此示例文件仅供参考。千万**不能**复制和粘贴的全部内容到应用程序中。相反，只选择您需要的属性。 |
 
