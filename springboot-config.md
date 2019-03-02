@@ -4,15 +4,15 @@
 
 |                                                              |
 | ------------------------------------------------------------ |
-| Spring Boot提供了各种具有高级值格式的转换机制，请务必查看[属性转换部分](https://docs.spring.io/spring-boot/docs/current/reference/html/boot-features-external-config.html#boot-features-external-config-conversion)。 |
+| 1.Spring Boot提供了各种具有高级值格式的转换机制，请务必查看[属性转换部分](https://docs.spring.io/spring-boot/docs/current/reference/html/boot-features-external-config.html#boot-features-external-config-conversion)。 |
 
 |                                                              |
 | ------------------------------------------------------------ |
-| 属性贡献可以来自类路径上的其他jar文件，因此您不应将此视为详尽的列表。此外，您可以定义自己的属性。 |
+| 2.属性贡献可以来自类路径上的其他jar文件，因此您不应将此视为详尽的列表。此外，您可以定义自己的属性。 |
 
 |                                                              |
 | ------------------------------------------------------------ |
-| 此示例文件仅供参考。千万**不能**复制和粘贴的全部内容到应用程序中。相反，只选择您需要的属性。 |
+| 3.此示例文件仅供参考。千万**不能**复制和粘贴的全部内容到应用程序中。相反，只选择您需要的属性。 |
 
 ```
 ＃================================================= ================== 
